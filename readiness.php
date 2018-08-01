@@ -1,4 +1,4 @@
-?php
+<?php
 $filename = '/tmp/readiness';
 
 if (file_exists($filename)) {
